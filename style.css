@@ -414,7 +414,7 @@ h1{
 
   padding-top: 10%;
 
-  margin-left: 10%; 
+  margin-left: 10vw; 
   margin-bottom: 1%;
 
 }
@@ -437,9 +437,9 @@ h1{
   display: block;
 
   
-  max-width: 40vw;
+  max-width: 32vw;
 
-  margin-left: 10%; 
+  margin-left: 10vw; 
 }
 
 
