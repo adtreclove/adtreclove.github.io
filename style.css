@@ -14,7 +14,7 @@
 li, a, button {
   font-family:"Mina", sans-serif;
   font-weight:600px ;
-  font-size: 18px;
+  font-size: 1vw;
   color: rgb(241, 115, 11);
   text-decoration: none;
 }
@@ -102,7 +102,7 @@ button:hover{
 
 .textover{
 
-  top:70px;
+  top:10%;
   position: relative;
   overflow: hidden;
   white-space: normal;
@@ -116,7 +116,7 @@ button:hover{
 
   color:rgba(255, 255, 255, 1);
   font-family: "Orbitron", sans-serif;
-  font-size: 40px;
+  font-size: 2vw;
   background-color: transparent;
   text-align: center;
 }
@@ -126,10 +126,10 @@ button:hover{
   position:relative;
   left:15%;
 
-  max-width: 500px;
+  max-width: 25vw;
   color:rgba(255, 255, 255, 1);
   font-family: "Mina", sans-serif;
-  font-size: 18px;
+  font-size: 1vw;
   background-color: transparent;
   font-weight: 100;
   
