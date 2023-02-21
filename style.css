@@ -52,6 +52,7 @@ footer{
   
 }
 
+
 button {
   padding:9px 25px;
   background-color: rgba(255, 255, 255, 1);
@@ -159,6 +160,7 @@ button:hover{
   justify-content: center;
   flex-direction: column;
   text-align: center;
+  padding-right: 12vw;
 }
 
 .footer-content p{
@@ -166,6 +168,16 @@ button:hover{
   margin: 10px auto;
   line-height: 28px;
   font-size: 12px;
+}
+
+.impressum{
+  padding-left: 2vw;
+  padding-top: 5vh;
+  text-align: left;
+  float: left;
+  color:rgb(255, 255, 255);
+  font-size: small;
+
 }
 
 .footer-logo{
@@ -435,8 +447,6 @@ h1{
 
   text-align: left;
   display: block;
-
-  
   max-width: 32vw;
 
   margin-left: 10vw; 
